@@ -1,5 +1,5 @@
 skaitlis = int(input("Ievadi skaitli: "))
-# Pārbauda, vai skaitlis ir nepāra
+#pārbauda, vai skaitlis ir nepāra
 if skaitlis % 2 != 0:
     print(f"{skaitlis} ir nepāra skaitlis.")
 else:
